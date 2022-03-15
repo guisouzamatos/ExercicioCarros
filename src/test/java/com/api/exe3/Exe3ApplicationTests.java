@@ -1,10 +1,10 @@
-package com.api.exe2;
+package com.api.exe3;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Exe2ApplicationTests {
+class Exe3ApplicationTests {
 
 	@Test
 	void contextLoads() {
